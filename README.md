@@ -15,10 +15,17 @@ A command-line app to log expenses, categorize them, and generate summaries and 
 - Category summaries
 - Budget tracking
 
-### v1.0.0
-- Stable CLI interface
+### v0.3.0
 - CSV export
 - Import functionality
+
+### v0.4.0
+- Budget alerts
+
+### v1.0.0
+- Stable CLI
+- Complete documentation
+- Provider abstraction (SQLite option)
 
 ## PR Checklist
 - [ ] Tests added or updated
